@@ -1,0 +1,1 @@
+This folder stores data which has been manipulated programatically. A `.gitignore` file is used to prevent files being tracked by Git or uploaded to GitHub. Because everything in this folder should be reproduced by manipulating raw data with code, the reproducer should not need access to the files contained in this folder.
