@@ -1,0 +1,1 @@
+This folder is where raw data should be stored. A `.gitignore` file is added to prevent raw data being tracked by Git or uploaded to GitHub. This `README.md` should contain details of where the raw data is stored and how that data can be obtained. Ideally, add code which downloads raw data from where it is stored into this folder. 
