@@ -9,5 +9,5 @@ Template for reproducible data analysis
 * Explain how files are organised
 
 # Reproducibility 
-* Explain how the project can be reporduced on different machines 
+* Explain how the project can be reproduced on different machines 
 
