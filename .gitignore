@@ -1,6 +1,7 @@
 #----------------------------
 # Allow  files to sync 
 
+!ignored_files.log
 
 #----------------------------
 # Ignore secret files 
