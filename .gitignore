@@ -1,9 +1,4 @@
 #----------------------------
-# Allow  files to sync 
-
-!ignored_files.log
-
-#----------------------------
 # Ignore secret files 
 
 .env 
@@ -330,3 +325,9 @@ __marimo__/
 **/leaflet-awesome*
 **/leaflet-provider*
 **/jquery*
+
+
+#----------------------------
+# Allow  files to sync 
+
+!ignored_files.log
